@@ -9,4 +9,5 @@
 ##
 5/25:
 
-3. https://leetcode.com/problems/backspace-string-compare/description/ (Two Pointers) 
+3. https://leetcode.com/problems/backspace-string-compare/description/ (Two Pointers)
+4. https://leetcode.com/problems/3sum/description/ (kinda like 3 pointers)
