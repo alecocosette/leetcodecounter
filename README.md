@@ -11,3 +11,7 @@
 
 3. https://leetcode.com/problems/backspace-string-compare/description/ (Two Pointers)
 4. https://leetcode.com/problems/3sum/description/ (kinda like 3 pointers)
+##
+5/26:
+
+5. https://leetcode.com/problems/longest-substring-without-repeating-characters/description/ (sliding window hashmap)
