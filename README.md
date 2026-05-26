@@ -15,3 +15,4 @@
 5/26:
 
 5. https://leetcode.com/problems/longest-substring-without-repeating-characters/description/ (sliding window hashmap)
+6. https://leetcode.com/problems/count-the-number-of-special-characters-i/description/?envType=daily-question&envId=2026-05-26 (daily problem i thought it was hashmap only then saw it is bitmask, will redo someday)
