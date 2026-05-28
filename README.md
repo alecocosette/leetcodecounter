@@ -20,3 +20,7 @@
 5/27:
 
 7. https://leetcode.com/problems/maximum-average-subarray-i/description/ (sliding window)
+##
+5/28:
+
+8. https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/?envType=problem-list-v2&envId=linked-list (just traverse)
