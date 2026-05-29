@@ -24,3 +24,7 @@
 5/28:
 
 8. https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/?envType=problem-list-v2&envId=linked-list (just traverse)
+##
+5/29:
+
+9. https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/description/?envType=daily-question&envId=2026-05-29 (just simply sum)
