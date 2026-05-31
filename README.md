@@ -28,3 +28,11 @@
 5/29:
 
 9. https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/description/?envType=daily-question&envId=2026-05-29 (just simply sum)
+##
+5/30:
+(forgot to update)
+10. https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/ (kinda like a fast/slow approach)
+
+5/31:
+
+11. https://leetcode.com/problems/destroying-asteroids/description/?envType=daily-question&envId=2026-05-31 (originally thought it was a binary search approach and was overcomplicating it)
