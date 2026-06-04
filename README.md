@@ -36,3 +36,19 @@
 5/31:
 
 11. https://leetcode.com/problems/destroying-asteroids/description/?envType=daily-question&envId=2026-05-31 (originally thought it was a binary search approach and was overcomplicating it)
+##
+6/1:
+
+12. https://leetcode.com/submissions/detail/2019130335/ (thought it was sliding window but then i sorted and made my life easier)
+##
+6/2: 
+
+13. https://leetcode.com/submissions/detail/2020666393/ (simple pass two pointers kind of)
+##
+6/3:
+
+14. https://leetcode.com/submissions/detail/2021426035/ (highkey just copied and pasted yesterdays solution and worked lmfao)
+##
+6/4:
+
+15. https://leetcode.com/submissions/detail/2022323607/ (there was no other way to do this other than a cool brute force)
