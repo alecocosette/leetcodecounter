@@ -52,3 +52,7 @@
 6/4:
 
 15. https://leetcode.com/submissions/detail/2022323607/ (there was no other way to do this other than a cool brute force)
+##
+6/6:
+
+16. https://leetcode.com/problems/left-and-right-sum-differences/?envType=daily-question&envId=2026-06-06 (simple pass through o(n))
