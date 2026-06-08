@@ -56,3 +56,8 @@
 6/6:
 
 16. https://leetcode.com/problems/left-and-right-sum-differences/?envType=daily-question&envId=2026-06-06 (simple pass through o(n))
+
+## south florida break (6/5-6/7)
+6/8:
+
+17. https://leetcode.com/problems/path-sum/description/ (simple depth first search)
