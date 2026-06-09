@@ -61,3 +61,7 @@
 6/8:
 
 17. https://leetcode.com/problems/path-sum/description/ (simple depth first search)
+##
+6/9:
+
+18. https://leetcode.com/problems/last-stone-weight/description/ (first heap problem i have done)
