@@ -65,3 +65,20 @@
 6/9:
 
 18. https://leetcode.com/problems/last-stone-weight/description/ (first heap problem i have done)
+##
+6/10:
+
+19. https://leetcode.com/problems/missing-number/ (array problem)
+##
+6/12:
+
+20. https://leetcode.com/problems/power-of-two/description/ (just shift left the value until you get two, not zero)
+##
+6/13:
+
+21. https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/ (binary seach)
+22. https://leetcode.com/problems/weighted-word-mapping/description/ (walk thru each letter/word)
+##
+6/14:
+
+23. https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/ (fast/slow approach)
