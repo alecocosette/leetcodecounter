@@ -82,3 +82,7 @@
 6/14:
 
 23. https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/ (fast/slow approach)
+##
+6/15:
+
+24. https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/?envType=daily-question&envId=2026-06-15 (simple fast/slow idk why ts on medium)
