@@ -86,3 +86,11 @@
 6/15:
 
 24. https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/?envType=daily-question&envId=2026-06-15 (simple fast/slow idk why ts on medium)
+##
+6/16:
+
+25. https://leetcode.com/problems/process-string-with-special-operations-i/ (i thought this was a go thru ts a 2^n solution)
+##
+6/17:
+
+26.  https://leetcode.com/problems/check-good-integer/solutions/ (go thru each val)
