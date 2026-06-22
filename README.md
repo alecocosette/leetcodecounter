@@ -94,3 +94,25 @@
 6/17:
 
 26.  https://leetcode.com/problems/check-good-integer/solutions/ (go thru each val)
+##
+6/18:
+
+27.  https://leetcode.com/problems/balanced-binary-tree/description/ (dfs problem)
+##
+6/19:
+
+28.  https://leetcode.com/problems/find-the-highest-altitude/description/ (follow each one and get the max)
+##
+6/20:
+
+29.  https://leetcode.com/problems/number-of-islands/ (flood fill problem, used dfs)
+##
+6/21:
+
+30.  https://leetcode.com/problems/maximum-ice-cream-bars/description/ (sort and calculate, prob can be a sliding window problem)
+##
+6/22:
+
+31. https://leetcode.com/problems/maximum-number-of-balloons/description/  (go thru each val, use hash and if statements)
+
+
