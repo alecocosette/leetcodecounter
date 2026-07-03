@@ -1,5 +1,9 @@
 # pls keep me accountable
 # Leetcode counter for Alejandro Jaimes (starting 5/23) (Prev 58 problems) (C++ main)
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/alecocosette?theme=dark)
+
+&nbsp;
 5/23:
 1. https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/ (Array Mechanics Problem)
 ##
@@ -114,5 +118,29 @@
 6/22:
 
 31. https://leetcode.com/problems/maximum-number-of-balloons/description/  (go thru each val, use hash and if statements)
+##
+6/23:
+
+32. https://leetcode.com/problems/binary-search/submissions/  (neetcode ranked vs sebastian)
+##
+6/27:
+
+33. https://leetcode.com/submissions/detail/2048243834/  (just sort and go thru)
+##
+6/28:
+
+34. https://leetcode.com/submissions/detail/2049338759/  (another sorting problem)
+35. https://leetcode.com/submissions/detail/2049488205/ (just go thru each value)
+##
+7/1:
+
+36. https://leetcode.com/submissions/detail/2052876848/  (whenever you find the last char you sent it it and wherever the min is just add 1)
+##
+7/2:
+
+37. https://leetcode.com/submissions/detail/2054043686/  (first bfs problem)
+    
+
+
 
 
